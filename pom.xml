@@ -48,9 +48,9 @@
   </properties>
 
   <scm>
-    <developerConnection>scm:git:git@github.com:khmarbaise/sapm.git</developerConnection>
-    <connection>scm:git:git://github.com/khmarbaise/sapm.git</connection>
-    <url>https://github.com/khmarbaise/sapm</url>
+    <developerConnection>scm:git:git@github.com:khmarbaise/sapm-test.git</developerConnection>
+    <connection>scm:git:git://github.com/khmarbaise/sapm-test.git</connection>
+    <url>https://github.com/khmarbaise/sapm-test</url>
   </scm>
 
   <build>
